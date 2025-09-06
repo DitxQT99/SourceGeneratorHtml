@@ -10,7 +10,7 @@ var accounts = [
     "expiryDate": "2023-12-31"
   },
   {
-    "username": "user2",
+    "username": "user",
     "password": "password2",
     "expiryDate": "2024-01-15"
   }
